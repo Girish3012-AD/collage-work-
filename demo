@@ -1,0 +1,4 @@
+hello i am doing my secoand commit 
+
+git add about README.md && git commit -m "Add about file and update README" 
+&& git push
